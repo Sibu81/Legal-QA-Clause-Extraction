@@ -1,5 +1,5 @@
 # Themis - AI-Powered Legal Document Assistant
-<p style="text-align: center;"> <a href="https://drive.google.com/drive/folders/1_GXgMF2yjM1FD_ZZI8Ge2JQa7ZOqKlDG">Demo</a></p>
+<p style="text-align: center;"> <a href="https://drive.google.com/file/d/18yteLnYHYhKl_kVHAkAMghcPHskJxhRJ/view?usp=sharing">Demo</a></p>
 
 ## Introduction
 
